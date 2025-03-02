@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//comment
 #define MAX_LINE_LENGTH 255
 
 int main(int argc, char* argv[]) {
